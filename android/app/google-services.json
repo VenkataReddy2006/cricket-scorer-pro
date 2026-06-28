@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "114944331065",
+    "project_id": "cricket-scorer-663a4",
+    "storage_bucket": "cricket-scorer-663a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114944331065:android:94627cf913f3d27e54ace8",
+        "android_client_info": {
+          "package_name": "com.venkatareddycricketscoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114944331065-okcfl1fjj74tjm8a64msoivapv04csmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkatareddycricketscoreapp",
+            "certificate_hash": "4ab8c528da701e735e5475fdd42b66cde41ff2d9"
+          }
+        },
+        {
+          "client_id": "114944331065-chsfe93bmpsrrdede6poes1pdad1j0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXM7xcfrMnL3gGlfk6-gd4cwcxiZ4RKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114944331065-chsfe93bmpsrrdede6poes1pdad1j0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114944331065:android:b8d8147b1e457c3954ace8",
+        "android_client_info": {
+          "package_name": "com.venkatareddycricketscoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114944331065-5n1l3q5l65t9vovabn5k2ki4al8l0gib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkatareddycricketscoreapp",
+            "certificate_hash": "4ab8c528da701e735e5475fdd42b66cde41ff2d9"
+          }
+        },
+        {
+          "client_id": "114944331065-gi6ta4klilka5u58urs865pevu37muho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkatareddycricketscoreapp",
+            "certificate_hash": "206ea51f9ec64b138e0d13a451ed6b69a9aa1111"
+          }
+        },
+        {
+          "client_id": "114944331065-chsfe93bmpsrrdede6poes1pdad1j0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXM7xcfrMnL3gGlfk6-gd4cwcxiZ4RKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114944331065-chsfe93bmpsrrdede6poes1pdad1j0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

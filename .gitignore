@@ -1,0 +1,114 @@
+#========================
+# Backend (Don't upload)
+#========================
+backend/
+
+#========================
+# OS Files
+#========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+#========================
+# Logs
+#========================
+*.log
+*.tmp
+
+#========================
+# Python
+#========================
+*.pyc
+
+#========================
+# Editor Files
+#========================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+.history/
+.atom/
+
+#========================
+# Flutter / Dart
+#========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+#========================
+# Android
+#========================
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/key.properties
+
+#========================
+# iOS / macOS
+#========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+macos/Pods/
+
+#========================
+# Linux
+#========================
+linux/flutter/ephemeral/
+
+#========================
+# Windows
+#========================
+windows/flutter/ephemeral/
+
+#========================
+# Generated Symbols
+#========================
+app.*.symbols
+app.*.map.json
+
+#========================
+# Build Files
+#========================
+.build/
+.buildlog/
+.swiftpm/
+migrate_working_dir/
+
+#========================
+# Firebase (Keep config files)
+#========================
+# Do NOT ignore these:
+# android/app/google-services.json
+# ios/Runner/GoogleService-Info.plist
+
+#========================
+# Keystore (Ignore private signing keys)
+#========================
+*.jks
+*.keystore
+upload-keystore.jks
+
+#========================
+# Misc
+#========================
+*.class
+.svn/
